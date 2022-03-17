@@ -1,5 +1,4 @@
 import React from "react";
-import toJson from "enzyme-to-json";
 import Counter from "../Counter";
 import { cleanup, fireEvent, render, screen } from "@testing-library/react";
 import App from "../../../App";

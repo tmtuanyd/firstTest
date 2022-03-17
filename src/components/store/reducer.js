@@ -1,5 +1,3 @@
-import * as ACTIONS from "./action";
-
 export const initialState = {
   state1: false,
 };
